@@ -18,7 +18,7 @@ if you see this project useful, please consider give me a star ⭐️
 10. View the API file on GitHub.
 11. Delete the repository if u want.
 
-![Preview](./public/preview2.gif)
+https://github.com/user-attachments/assets/9c4fea9e-0d18-437b-a0ed-af9819f0f35e
 
 ## How to contribute
 
