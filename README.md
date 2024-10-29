@@ -18,6 +18,8 @@ if you see this project useful, please consider give me a star ⭐️
 10. View the API file on GitHub.
 11. Delete the repository if u want.
 
+![Preview](./public/preview2.gif)
+
 ## How to contribute
 
 1. Fork the repository.
