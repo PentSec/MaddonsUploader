@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { CheckboxGroup } from '@nextui-org/react'
+import { CheckboxGroup } from "@heroui/react"
 import { CustomCheckbox } from './CustomCheckbox'
 
 export default function CheckTypeList({ addonType, setAddonType }) {

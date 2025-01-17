@@ -1,4 +1,4 @@
-import { NextUIProvider } from '@nextui-org/react'
+import { HeroUIProvider } from "@heroui/react"
 import RepoForm from './components/RepoForm'
 import ErrorBoundary from './components/ErrorBoundary'
 import { ToastContainer } from 'react-toastify'
@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css'
 
 function App() {
     return (
-        <NextUIProvider>
+        <HeroUIProvider>
             <ErrorBoundary>
                 <ToastContainer
                     position="top-center"
@@ -30,7 +30,7 @@ function App() {
                     </div>
                 </main>
             </ErrorBoundary>
-        </NextUIProvider>
+        </HeroUIProvider>
     )
 }
 

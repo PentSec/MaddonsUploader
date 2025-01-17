@@ -1,4 +1,4 @@
-import { useCheckbox, Chip, VisuallyHidden, tv } from '@nextui-org/react'
+import { useCheckbox, Chip, VisuallyHidden, tv } from "@heroui/react"
 import { CheckIcon } from './CheckIcon.jsx'
 
 const checkbox = tv({

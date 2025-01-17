@@ -9,7 +9,7 @@ import {
     Chip,
     Image,
     Tooltip
-} from '@nextui-org/react'
+} from "@heroui/react"
 import useCreateGitHubRepo from '../hooks/useCreateGitHubRepo'
 import useFormState from '../hooks/useFormState'
 import useDeleteGitHubRepo from '../hooks/useDeleteGithubRepo'
